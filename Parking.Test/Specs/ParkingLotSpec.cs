@@ -3,9 +3,9 @@ using Parking.Lots;
 using Parking.Models;
 using Xunit;
 
-namespace Parking.Test
+namespace Parking.Test.Specs
 {
-    public class ParkingLotTest
+    public class ParkingLotSpec
     {
         [Fact]
         void should_pick_the_right_car_when_park_some_cars()

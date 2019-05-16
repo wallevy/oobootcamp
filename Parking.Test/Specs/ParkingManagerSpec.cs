@@ -4,9 +4,9 @@ using Parking.Lots;
 using Parking.Models;
 using Xunit;
 
-namespace Parking.Test
+namespace Parking.Test.Specs
 {
-    public class ParkingManagerTest
+    public class ParkingManagerSpec
     {
         [Fact]
         void should_can_pick_the_car_when_manager_park_a_car()

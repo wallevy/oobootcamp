@@ -1,7 +1,7 @@
 ﻿using Parking.Lots;
 using Parking.Models;
 
-namespace Parking.Test
+namespace Parking.Test.Common
 {
     class ParkingLotBuilder
     {

@@ -1,10 +1,11 @@
 ﻿using System;
 using Parking.Boys;
+using Parking.Test.Common;
 using Xunit;
 
-namespace Parking.Test
+namespace Parking.Test.Specs
 {
-    public class ReportTest
+    public class ReportSpec
     {
         static string NewLine => Environment.NewLine;
 
